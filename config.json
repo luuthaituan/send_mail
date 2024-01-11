@@ -1,0 +1,26 @@
+{
+    "ssh": {
+        "host": "192.168.1.24",
+        "port": 22,
+        "username": "thaituan",
+        "password": "tuan89"
+    },
+    "mysql": {
+        "user": "thaituan",
+        "password": "tuan89",
+        "db": "sample"
+    },
+    "telegram": {
+        "bot_token": "6531445104:AAFrRBHxjLk9XRLbXwird46-NlDpDsd2FTU",
+        "chat_id": "2065288078"
+    },
+    "email": {
+        "sender": "test_data@example.com",
+        "recipient": "luuthaituan08091999@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "luuthaituan08091999@gmail.com",
+        "password": "zvkf lhou sqgm whkf"
+    },
+    "query": "select * from sample.test"
+}
